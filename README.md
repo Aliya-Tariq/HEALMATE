@@ -3,7 +3,7 @@
 
 A conversational AI chatbot that analyzes symptoms, provides potential diagnoses, and recommends next steps. (e.g., self-care, doctor consultation, or emergency care). Built with **Rasa**, **spaCy**, and **Flask**, and integrated with medical APIs for accurate triage.
 
-![Chatbot Demo](screenshots/demo.gif) <!-- Add a screenshot/gif later -->
+
 
 ## 🌟 Features
 - **Symptom Analysis**: Collects symptoms, duration, and severity.
