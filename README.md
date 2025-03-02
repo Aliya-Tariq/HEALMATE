@@ -9,7 +9,7 @@
   <br>
   (e.g., self-care, doctor consultation, or emergency care).
   <br>
-  Built with "Rasa", "spaCy", and "Flask", and integrated with medical APIs for accurate triage.
+  Built with **Rasa**, **spaCy**, and **Flask**, and integrated with medical APIs for accurate triage.
   <br>
   <br>
 
