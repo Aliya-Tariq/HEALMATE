@@ -8,14 +8,14 @@ A conversational AI chatbot that analyzes symptoms, provides potential diagnoses
 ## 🌟 Features
 - **Symptom Analysis**: Collects symptoms, duration, and severity.
 - **Urgency Triage**: Flags high-risk symptoms (e.g., chest pain).
-- **Medical Knowledge**: Integrates with [Infermedica API](https://developer.infermedica.com/) for evidence-based recommendations.
+- **Medical Knowledge**: Integrates with [Endlessmedical API](https://endlessmedical.com/) for evidence-based recommendations.
 - **Privacy-First**: No personal health data stored.
 - **Web Interface**: Simple and intuitive UI.
 
 ## 🛠️ Technologies Used
 - **Backend**: Rasa (NLP/Dialogue Management), Flask (API)
 - **NLP**: spaCy, Rasa DIETClassifier
-- **APIs**: Infermedica (Medical Knowledge)
+- **APIs**: Endlessmedical (Medical Knowledge)
 - **Frontend**: HTML/CSS/JavaScript
 - **Deployment**: Heroku (Backend), Netlify (Frontend)
 
