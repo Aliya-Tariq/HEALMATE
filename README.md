@@ -5,11 +5,11 @@
 -----------------------------------------------------------
 <br>
 
-  <h2>A conversational AI chatbot that analyzes symptoms, provides potential diagnoses, and recommends next steps. 
+  A conversational AI chatbot that analyzes symptoms, provides potential diagnoses, and recommends next steps. 
   <br>
   (e.g., self-care, doctor consultation, or emergency care).
   <br>
-  Built with "Rasa", "spaCy", and "Flask", and integrated with medical APIs for accurate triage.</h2>
+  Built with "Rasa", "spaCy", and "Flask", and integrated with medical APIs for accurate triage.
   <br>
   <br>
 
