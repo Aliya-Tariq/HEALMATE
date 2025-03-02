@@ -48,14 +48,14 @@ A conversational AI chatbot that analyzes symptoms, provides potential diagnoses
 
 ## 🤝 Contributing
 
-   Fork the repository.
+1. Fork the repository.
    
-   Create a new branch: git checkout -b feature/your-feature.
+2. Create a new branch: git checkout -b feature/your-feature.
    
-   Commit changes: git commit -m "Add your feature".
+3. Commit changes: git commit -m "Add your feature".
    
-   Push to the branch: git push origin feature/your-feature.
+4. Push to the branch: git push origin feature/your-feature.
    
-   Submit a pull request.
+5. Submit a pull request.
    
    
