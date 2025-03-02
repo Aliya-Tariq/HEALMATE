@@ -1,7 +1,7 @@
 <h1 align="center"> 🩺 HEALMATE <br>
  </h1>
 
-#![Screenshot 2025-03-03 020936](https://github.com/user-attachments/assets/80445e7d-c763-4362-9712-106d45d11813)
+![Screenshot 2025-03-03 020936](https://github.com/user-attachments/assets/80445e7d-c763-4362-9712-106d45d11813)
 
  A conversational AI chatbot that analyzes symptoms, provides potential diagnoses, and recommends next steps. (e.g., self-care, doctor consultation, or emergency care). Built with **Rasa**, **spaCy**, and **Flask**, and integrated with medical APIs for accurate triage. 
 
