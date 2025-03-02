@@ -32,3 +32,5 @@ A conversational AI chatbot that analyzes symptoms, provides potential diagnoses
    ```bash
    git clone https://github.com/your-username/healthcare-chatbot.git
    cd healthcare-chatbot
+
+   
