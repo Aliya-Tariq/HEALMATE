@@ -46,7 +46,7 @@ A conversational AI chatbot that analyzes symptoms, provides potential diagnoses
    ```bash
    rasa train
 
-##🤝 Contributing
+## 🤝 Contributing
 
    Fork the repository.
    
