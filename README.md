@@ -10,10 +10,9 @@
   (e.g., self-care, doctor consultation, or emergency care).
   <br>
   Built with "Rasa", "spaCy", and "Flask", and integrated with medical APIs for accurate triage.</h2>
-<br>
-<br>
 
 
+<br>
 
 ## 🌟 Features
 - **Symptom Analysis**: Collects symptoms, duration, and severity.
