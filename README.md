@@ -1,4 +1,4 @@
-<h1 align="center"> HEALMATE <br>
+<h1 align="center"> 🩺 HEALMATE <br>
  </h1>
 A conversational AI chatbot that analyzes symptoms, provides potential diagnoses, and recommends next steps.🩺
 
@@ -8,7 +8,7 @@ An AI-powered chatbot that helps users assess symptoms, suggests possible condit
 
 ![Chatbot Demo](screenshots/demo.gif) <!-- Add a screenshot/gif later -->
 
-## 🌟 Features
+### 🌟 Features
 - **Symptom Analysis**: Collects symptoms, duration, and severity.
 - **Urgency Triage**: Flags high-risk symptoms (e.g., chest pain).
 - **Medical Knowledge**: Integrates with [Infermedica API](https://developer.infermedica.com/) for evidence-based recommendations.
