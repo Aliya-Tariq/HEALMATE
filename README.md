@@ -1,14 +1,11 @@
 <h1 align="center"> 🩺 HEALMATE <br>
  </h1>
-A conversational AI chatbot that analyzes symptoms, provides potential diagnoses, and recommends next steps.🩺
 
-# 🩺 Healthcare Symptom Analysis Chatbot
-
-An AI-powered chatbot that helps users assess symptoms, suggests possible conditions, and recommends next steps (e.g., self-care, doctor consultation, or emergency care). Built with **Rasa**, **spaCy**, and **Flask**, and integrated with medical APIs for accurate triage.
+A conversational AI chatbot that analyzes symptoms, provides potential diagnoses, and recommends next steps. (e.g., self-care, doctor consultation, or emergency care). Built with **Rasa**, **spaCy**, and **Flask**, and integrated with medical APIs for accurate triage.
 
 ![Chatbot Demo](screenshots/demo.gif) <!-- Add a screenshot/gif later -->
 
-### 🌟 Features
+## 🌟 Features
 - **Symptom Analysis**: Collects symptoms, duration, and severity.
 - **Urgency Triage**: Flags high-risk symptoms (e.g., chest pain).
 - **Medical Knowledge**: Integrates with [Infermedica API](https://developer.infermedica.com/) for evidence-based recommendations.
