@@ -2,7 +2,7 @@
  </h1>
 
 ![Screenshot 2025-03-03 020936](https://github.com/user-attachments/assets/80445e7d-c763-4362-9712-106d45d11813)
-
+-----------------------------------------------------------
 <br>
 
   A conversational AI chatbot that analyzes symptoms, provides potential diagnoses, and recommends next steps. 
@@ -13,7 +13,7 @@
 <br>
 
 
------------------------------------------------------------
+
 
 
 ## 🌟 Features
