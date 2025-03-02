@@ -32,5 +32,30 @@ A conversational AI chatbot that analyzes symptoms, provides potential diagnoses
    ```bash
    git clone https://github.com/your-username/healthcare-chatbot.git
    cd healthcare-chatbot
+2. **Set Up a Virtual Environment**:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # Linux/Mac
+   venv\Scripts\activate     # Windows
 
+3. **Install Dependencies**:
+   ```bash
+   pip install -r requirements.txt
+
+4. **Train the Rasa Model**:
+   ```bash
+   rasa train
+
+##🤝 Contributing
+
+   Fork the repository.
+   
+   Create a new branch: git checkout -b feature/your-feature.
+   
+   Commit changes: git commit -m "Add your feature".
+   
+   Push to the branch: git push origin feature/your-feature.
+   
+   Submit a pull request.
+   
    
